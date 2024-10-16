@@ -100,8 +100,8 @@ print(bc.getAllBooksInCollection())
 ```
 
 #### Requirements
-Python 3.x
-pytest for testing
+- Python 3.x
+- pytest for testing
 
 
 
